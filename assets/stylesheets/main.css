@@ -417,6 +417,11 @@ main .post-info  .post-video img{
     content: justify-center;
 }
 
+.row .sidebar_2{
+    position:  relative;
+    left: 20px;
+    border: 2px solid red ;
+}
 
 
 
